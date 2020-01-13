@@ -1,12 +1,12 @@
 # MAC OS
 ## Commands and solutions
 
-## Requirements
+<!-- ## Requirements -->
 <!-- - []() -->
 
 
 <br><br><p align="center">
-  <img width="75%" height="75%" src="https://developer.apple.com/softwarelicensing/images/mac-logo.svg" alt="Django Logo">
+  <img width="40%" height="40%" src="https://developer.apple.com/softwarelicensing/images/mac-logo.svg" alt="Django Logo">
 </p>
 
 <br><br>
