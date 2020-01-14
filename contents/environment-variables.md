@@ -1,4 +1,4 @@
-# ENVIRONMNET VARIABLES
+# ENVIRONMENT VARIABLES
 ## Create a environment plist file.
 
 ```sh
